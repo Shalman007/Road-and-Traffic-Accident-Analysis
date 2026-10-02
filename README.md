@@ -119,9 +119,8 @@ The project:
 ```text
 Road-Railway-Accident-Analysis/
 │
-├── CA1.py
 ├── dataset/
-│   └── accident_data.csv
+│   └── ADSI_Table_1A.2.csv
 │
 ├── visualizations/
 │   ├── linear_regression.png
